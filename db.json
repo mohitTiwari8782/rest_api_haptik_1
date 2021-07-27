@@ -1,0 +1,139 @@
+{
+    "whatsapp-queue": [
+        {
+            "id": 9821310001
+           
+        }
+    ],
+    "call-back activity": [
+        {
+            "id": 9821310001
+    
+        }
+    ],
+    "agent-with-relevant-team": [
+        {
+            "id": 9821310001,
+            "team":"sales"
+        },
+        {
+            "id": 9821310002,
+            "team":"sales"
+        },
+        {
+            "id": 9821310003,
+            "team":"sales"
+        },
+        {
+            "id": 9821310004,
+            "team":"sales"
+        },
+        {
+            "id": 9821310005,
+            "team":"sales"
+        },
+        {
+            "id": 9821320001,
+            "team":"sales"
+        },
+        {
+            "id": 9821320002,
+            "team":"sales"
+        },
+        {
+            "id": 9821320003,
+            "team":"sales"
+        },
+        {
+            "id": 9821320004,
+            "team":"sales"
+        },
+        {
+            "id": 9821320005,
+            "team":"sales"
+        },
+        {
+            "id": 9821330001,
+            "team":"support"
+        },
+        {
+            "id": 9821330002,
+            "team":"support"
+        },
+        {
+            "id": 9821330003,
+            "team":"support"
+        },
+        {
+            "id": 9821330004,
+            "team":"support"
+        },
+        {
+            "id": 9821330005,
+            "team":"s"
+        }
+    ],
+    "despositions":[
+        {
+            "id":9821310001,
+            "despositions":""
+        },
+        {
+            "id":9821310002,
+            "despositions":""
+        },
+        {
+            "id":9821310003,
+            "despositions":""
+        },
+        {
+            "id":9821310004,
+            "despositions":""
+        },
+        {
+            "id":9821310005,
+            "despositions":""
+        },
+        {
+            "id":9821320001,
+            "despositions":""
+        },
+        {
+            "id":9821320002,
+            "despositions":""
+        },
+        {
+            "id":9821320003,
+            "despositions":""
+        },
+        {
+            "id":9821320004,
+            "despositions":""
+        },
+        {
+            "id":9821320005,
+            "despositions":""
+        },
+        {
+            "id":9821330001,
+            "despositions":""
+        },
+        {
+            "id":9821330002,
+            "despositions":""
+        },
+        {
+            "id":9821330003,
+            "despositions":""
+        },
+        {
+            "id":9821330004,
+            "despositions":""
+        },
+        {
+            "id":9821330005,
+            "despositions":""
+        }
+    ]
+    
+}
